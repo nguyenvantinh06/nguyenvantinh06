@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nguyen Van Tinh</h1>
-<h3 align="center">A passionate mobile react native developer from Vietnam</h3>
+<h3 align="center">I'm a React Native developer come from Vietnam. I have strong skills developing mobile apps and have 2+ years of general experience. As a React Native developer, I specialize in building high-quality, cross-platform mobile applications using the React Native framework. I have done many projects on logictics, e-commerce, news, travel, and management apps.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenvantinh06&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenvantinh06" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nguyenvantinh06" alt="nguyenvantinh06" /></a> </p>
+
+- 🙋‍♂️ All about me is at [https://portfolio-developer-nguyenvantinh06.vercel.app](https://portfolio-developer-nguyenvantinh06.vercel.app/)
 
 - 🔭 I’m currently working on **React Native Project**
 
@@ -11,12 +13,18 @@
 
 - 👯 I’m looking to collaborate on **part-time react native jobs**
 
+- 🤝 I’m looking for help with **animations for mobile application**
+
+- 👨‍💻 All of my projects are available at [https://github.com/nguyenvantinh06?tab=repositories](https://github.com/nguyenvantinh06?tab=repositories)
+
 - 💬 Ask me about **React Native**
 
 - 📫 How to reach me **nguyenvantinh06@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/nguyenvantinh06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyenvantinh06" height="30" width="40" /></a>
+<a href="https://fb.com/nguyenvantinh06.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyenvantinh06.py" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
