@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nguyenvantinh06" alt="nguyenvantinh06" /></a> </p>
 
-- 🙋‍♂️ All about me is at [https://portfolio-developer-nguyenvantinh06.vercel.app](https://portfolio-developer-nguyenvantinh06.vercel.app/)
+- 🙋‍♂️ All about me is at [My Website](https://portfolio-developer-nguyenvantinh06.vercel.app/)
 
 - 🔭 I’m currently working on **React Native Project**
 
@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **animations for mobile application**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nguyenvantinh06?tab=repositories](https://github.com/nguyenvantinh06?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Projects](https://github.com/nguyenvantinh06?tab=repositories)
 
 - 💬 Ask me about **React Native**
 
