@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Van Tinh</h1>
-<h3 align="center">I'm a React Native developer come from Vietnam. I have strong skills developing mobile apps and have 2+ years of general experience. As a React Native developer, I specialize in building high-quality, cross-platform mobile applications using the React Native framework. I have done many projects on logictics, e-commerce, news, travel, and management apps.</h3>
+<h3 align="center">I'm a React Native developer come from Vietnam. As a React Native developer, I specialize in building high-quality, cross-platform mobile applications using the React Native framework.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenvantinh06&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenvantinh06" /> </p>
 
